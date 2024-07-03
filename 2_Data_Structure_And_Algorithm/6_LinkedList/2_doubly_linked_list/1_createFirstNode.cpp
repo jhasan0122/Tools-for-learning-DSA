@@ -1,3 +1,16 @@
-//
-// Created by HP TECHNOLOGY on 5/25/2024.
-//
+#include "iostream"
+
+using namespace std;
+
+struct ListNode{
+    int val;
+    ListNode *next;
+    ListNode(int val){
+        this->val = val;
+        this->next = NULL;
+    }
+};
+
+int main(){
+
+}
