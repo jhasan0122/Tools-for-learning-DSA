@@ -3,7 +3,7 @@
 
 
 
-- **[1.Basic Programming](1_Basic/ReadMe.md)**
+- **[1.Basic Programming](1_Basic/BasicReadMe.md)**
 
 - **[2.Bitwise Manupulation](2_Bitwise/bitwise.md)**
 

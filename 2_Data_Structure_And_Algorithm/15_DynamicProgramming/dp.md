@@ -200,31 +200,44 @@
 
 <hr>
 
-73. Number of Dice Rolls with Target Sum (Recursion)      -**[-Ques](https://practice.geeksforgeeks.org/problems/dice-throw5349/1)**
-74. Number of Dice Rolls with Target Sum (Memorization)
-75. Number of Dice Rolls with Target Sum (Tabulation)
-76. Number of Dice Rolls with Target Sum (Space optimization)
+[76. Number of Dice Rolls with Target Sum (Recursion)]()      -**[-Ques](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)**
+
+[77. Number of Dice Rolls with Target Sum (Memorization)]()
+
+[78. Number of Dice Rolls with Target Sum (Tabulation)]()
+
+[79. Number of Dice Rolls with Target Sum (Space optimization)]()
+
 <hr>
+
 <img src="img/ex.jpg" alt="partitionEq" sizes="500" width="465" height="278">
 
-77. Partition Equal Subset Sum (Recursion)      -**[-Ques](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)**
-78. Partition Equal Subset Sum (Memorization)
-79. Partition Equal Subset Sum (Tabulation)
-80. Partition Equal Subset Sum (Space optimization)
+[80. Partition Equal Subset Sum (Recursion) ](80_Partition_equal.cpp)-**[-Ques](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)**
+
+[81. Partition Equal Subset Sum (Memorization)](81_Partition_equal_mem.cpp)
+
+[82. Partition Equal Subset Sum (Tabulation)](82_Partition_equal_tab.cpp)
+
+[83. Partition Equal Subset Sum (Space optimization)](83_Partition_equal_opt.cpp)
+
 <hr>
 
-81. Minimum Swap to Make Sequence Increasing (Recursion)      -**[-Ques](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)**
-82. Minimum Swap to Make Sequence Increasing (Memorization)
-83. Minimum Swap to Make Sequence Increasing (Tabulation)
-84. Minimum Swap to Make Sequence Increasing (Space optimization)
+[84. Minimum Swap to Make Sequence Increasing (Recursion)]()-**[-Ques](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)**
+
+[85. Minimum Swap to Make Sequence Increasing (Memorization)]()
+
+[86. Minimum Swap to Make Sequence Increasing (Tabulation)]()
+
+[87. Minimum Swap to Make Sequence Increasing (Space optimization)]()
+
 <hr>
 
-85. Longest Arithmetic Subsequence (Recursion)        -**[-Ques](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1)**
-86. Longest Arithmetic Subsequence (Memorization)
-87. Longest Arithmetic Subsequence (Tabulation)
+88. Longest Arithmetic Subsequence (Recursion)        -**[-Ques](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1)**
+89. Longest Arithmetic Subsequence (Memorization)
+90. Longest Arithmetic Subsequence (Tabulation)
 <hr>
 
-88.  Longest AP with given Difference "d" (Hashmap)   -**[-Ques](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)**
+91.  Longest AP with given Difference "d" (Hashmap)   -**[-Ques](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)**
 <hr>
 <img src="img/uniquebstn3.jpg" alt="unqBT" sizes="500" width="800" height="250">
 
