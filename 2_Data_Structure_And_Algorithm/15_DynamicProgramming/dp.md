@@ -145,36 +145,59 @@
 <hr>
 <img src="img/ic234-q3-ex3.png" alt="sideJump" sizes="500"  width="400" height="250">
 
-54. Minimum Sideways Jump (Recursion)   -**[-Ques](https://leetcode.com/problems/minimum-sideway-jumps/)**
-55. Minimum Sideways Jump (Memorization)
-56. Minimum Sideways Jump (Tabulation)
-57. Minimum Sideways Jump (Space optimization)
+[54. Minimum Sideways Jump (Recursion)](54_min_sideway_jump.cpp)   -**[-Ques](https://leetcode.com/problems/minimum-sideway-jumps/)**
+
+[55. Minimum Sideways Jump (Memorization)]()
+
+[56. Minimum Sideways Jump (Tabulation)]()
+
+[57. Minimum Sideways Jump (Space optimization)]()
 <hr>
 
-58. Reducing Dishes (Recursion)       -**[-Ques](https://leetcode.com/problems/reducing-dishes/)**
-59. Reducing Dishes (Memorization)
-60. Reducing Dishes (Tabulation)
-61. Reducing Dishes (Space optimization)
+[58. Reducing Dishes (Recursion)](58_reducing_dishes.cpp)       -**[-Ques](https://leetcode.com/problems/reducing-dishes/)**
+
+[59. Reducing Dishes (Memorization)](59_reducing_dishes_mem.cpp)
+
+[60. Reducing Dishes (Tabulation)](60_reducing_dishes_tab.cpp)
+
+[61. Reducing Dishes (Space optimization)](61_reducing_dishes_opt.cpp)
 <hr>
 
-62. Longest Increasing Subsequence (Recursion)      -**[-Ques](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)**
-63. Longest Increasing Subsequence (Memorization)
-64. Longest Increasing Subsequence (Tabulation)
-65. Longest Increasing Subsequence (Space optimization)
-66. Longest Increasing Subsequence (DP + BinarySearch)
-67. Russian Doll (DP + BinarySearch)      -**[-Ques](https://leetcode.com/problems/russian-doll-envelopes/)**
+[62. Longest Increasing Subsequence (Recursion)](62_Longest_increasing_subsequence.cpp)     -**[-Ques](https://leetcode.com/problems/longest-increasing-subsequence/)**
+
+[63. Longest Increasing Subsequence (Memorization)](63_Longest_increasing_subsequence_mem.cpp)
+
+[64. Longest Increasing Subsequence (Tabulation)](64_Longest_increasing_subsequence_tab.cpp)
+
+[65. Longest Increasing Subsequence (Space optimization)](65_Longest_increasing_subsequence_opt.cpp)
+
+[66. Longest Increasing Subsequence (DP + BinarySearch)](66_longest_increasing_subsequence_Binary_search_DP.cpp)
 
 <hr>
 <img src="img/image.jpg" alt="Cuboid" sizes="500"  width="400" height="250">
 
-68. Maximum Height by Stacking Cuboid (Tabulation)      -**[-Ques](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)**
+[67. Max Height Cuboid (Rucursion)](67_Max_Height_Cuboid.cpp)      -**[-Ques](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)** 
+
+[68. Max Height Cuboid (Tabulation)](68_Max_Height_Cuboid_Mem.cpp)
+
+[69. Max Height Cuboid (Tabulation)](69_Max_Height_Cuboid_Tab.cpp)
+
+[70. Max Height Cuboid (Space optimization)]()
+
+[71. Russian Doll (DP + BinarySearch)](71_Russian_doll_BinarySearch_DP.cpp)   -**[-Ques](https://leetcode.com/problems/russian-doll-envelopes/)**
+
+
 <hr>
 <img src="img/sample_3_1723.png" alt="pizza" sizes="500" width="400" height="250">
 
-69. Pizza with 3n size (Recursion)      -**[-Ques](https://leetcode.com/problems/pizza-with-3n-slices/)**
-70. Pizza with 3n size (Memorization)
-71. Pizza with 3n size (Tabulation)
-72. Pizza with 3n size (Space optimization)
+[72. Pizza with 3n size (Recursion)](72_Pizza_with_3n_size.cpp)      -**[-Ques](https://leetcode.com/problems/pizza-with-3n-slices/)**
+
+[73. Pizza with 3n size (Memorization)](73_Pizza_with_3n_size_mem.cpp)
+
+[74. Pizza with 3n size (Tabulation)](74_Pizza_with_3n_size_tab.cpp)
+
+[75. Pizza with 3n size (Space optimization)](75_Pizza_with_3n_size_opt.cpp)
+
 <hr>
 
 73. Number of Dice Rolls with Target Sum (Recursion)      -**[-Ques](https://practice.geeksforgeeks.org/problems/dice-throw5349/1)**
