@@ -50,11 +50,11 @@
 
 <hr>
 
-[19. Cut Rod into Segments of X, Y, Z (Recursion)]()      **[-Ques](https://www.codingninjas.com/studio/problems/cut-into-segments_1214651?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
+[19. Cut Rod into Segments of X, Y, Z (Recursion)](19_cut_rod_into_segment.cpp)      **[-Ques](https://www.codingninjas.com/studio/problems/cut-into-segments_1214651?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
 
-[20. Cut Rod into Segments of X, Y, Z (Memorization)]()
+[20. Cut Rod into Segments of X, Y, Z (Memorization)](20_cut_rod_into_segment_mem.cpp)
 
-[21. Cut Rod into Segments of X, Y, Z (Tabulation)]()
+[21. Cut Rod into Segments of X, Y, Z (Tabulation)](21_cut_rod_into_segment_tab.cpp)
 
 
 <hr>
@@ -147,9 +147,9 @@
 
 [54. Minimum Sideways Jump (Recursion)](54_min_sideway_jump.cpp)   -**[-Ques](https://leetcode.com/problems/minimum-sideway-jumps/)**
 
-[55. Minimum Sideways Jump (Memorization)]()
+[55. Minimum Sideways Jump (Memorization)](55_min_sideway_jump_mem.cpp)
 
-[56. Minimum Sideways Jump (Tabulation)]()
+[56. Minimum Sideways Jump (Tabulation)](56_min_sideway_jump_tab.cpp)
 
 [57. Minimum Sideways Jump (Space optimization)]()
 <hr>
@@ -182,7 +182,7 @@
 
 [69. Max Height Cuboid (Tabulation)](69_Max_Height_Cuboid_Tab.cpp)
 
-[70. Max Height Cuboid (Space optimization)]()
+[70. Max Height Cuboid (Space optimization)](70_Max_Height_Cuboid_Opt.cpp)
 
 [71. Russian Doll (DP + BinarySearch)](71_Russian_doll_BinarySearch_DP.cpp)   -**[-Ques](https://leetcode.com/problems/russian-doll-envelopes/)**
 
@@ -200,13 +200,13 @@
 
 <hr>
 
-[76. Number of Dice Rolls with Target Sum (Recursion)]()      -**[-Ques](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)**
+[76. Number of Dice Rolls with Target Sum (Recursion)](76_dice_roll_target_sum.cpp)      -**[-Ques](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)**
 
-[77. Number of Dice Rolls with Target Sum (Memorization)]()
+[77. Number of Dice Rolls with Target Sum (Memorization)](77_dice_roll_target_sum_mem.cpp)
 
-[78. Number of Dice Rolls with Target Sum (Tabulation)]()
+[78. Number of Dice Rolls with Target Sum (Tabulation)](78_dice_roll_target_sum_tab.cpp)
 
-[79. Number of Dice Rolls with Target Sum (Space optimization)]()
+[79. Number of Dice Rolls with Target Sum (Space optimization)](79_dice_roll_target_sum_opt.cpp)
 
 <hr>
 
@@ -222,34 +222,39 @@
 
 <hr>
 
-[84. Minimum Swap to Make Sequence Increasing (Recursion)]()-**[-Ques](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)**
+[84. Minimum Swap to Make Sequence Increasing (Recursion)](84_minSwapToMakeSeqIncreasing.cpp)-**[-Ques](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)**
 
-[85. Minimum Swap to Make Sequence Increasing (Memorization)]()
+[85. Minimum Swap to Make Sequence Increasing (Memorization)](85_minSwapToMakeSeqIncreasing_mem.cpp)
 
-[86. Minimum Swap to Make Sequence Increasing (Tabulation)]()
+[86. Minimum Swap to Make Sequence Increasing (Tabulation)](86_minSwapToMakeSeqIncreasing_tab.cpp)
 
 [87. Minimum Swap to Make Sequence Increasing (Space optimization)]()
 
 <hr>
 
-88. Longest Arithmetic Subsequence (Recursion)        -**[-Ques](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1)**
-89. Longest Arithmetic Subsequence (Memorization)
-90. Longest Arithmetic Subsequence (Tabulation)
+[88. Longest Arithmetic Subsequence (Recursion)](88_longest_arithmetic_subsequence.cpp)-**[-Ques](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)**
+
+[89. Longest Arithmetic Subsequence (Memorization)](89_longest_arithmetic_subsequence_mem.cpp)
+
+[90. Longest Arithmetic Subsequence (Tabulation)](90_longest_arithmetic_subsequence_tab.cpp)
+
 <hr>
 
-91.  Longest AP with given Difference "d" (Hashmap)   -**[-Ques](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)**
+[91. Longest AP with given Difference "d" (Hashmap)]()   -**[-Ques](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)**
 <hr>
 <img src="img/uniquebstn3.jpg" alt="unqBT" sizes="500" width="800" height="250">
 
-89. Unique Binary Search Trees or Catalan Number (Recursion)      -**[-Ques](https://leetcode.com/problems/unique-binary-search-trees/)**
-90. Unique Binary Search Trees or Catalan Number (Memorization)
-91. Unique Binary Search Trees or Catalan Number (Tabulation)
+[92. Unique Binary Search Trees or Catalan Number (Recursion)]()      -**[-Ques](https://leetcode.com/problems/unique-binary-search-trees/)**
+
+[93. Unique Binary Search Trees or Catalan Number (Memorization)]()
+
+[94. Unique Binary Search Trees or Catalan Number (Tabulation)]()
 <hr>
 <img src="img/graph.png" alt="guessNum" sizes="500" width="333" height="255">
 
-92. Guess Number Higher or Lower (Recursion)     -**[-Ques](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)**
-93. Guess Number Higher or Lower (Memorization)
-94. Guess Number Higher or Lower (Tabulation)
+95. Guess Number Higher or Lower (Recursion)     -**[-Ques](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)**
+96. Guess Number Higher or Lower (Memorization)
+97. Guess Number Higher or Lower (Tabulation)
 <hr>
 95. Minimum Cost Tree From Leaf Values
 <hr>
