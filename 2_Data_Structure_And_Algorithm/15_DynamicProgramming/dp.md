@@ -8,7 +8,7 @@
 
 <hr>
 
-<img src="img/Climbing_Stairs.svg" alt="stair" sizes="500" width="600" height="250">
+<img src="img/Climbing_Stairs.svg" alt="stair" sizes="500">
 
 [4. Minimum Cost Climbing Stairs (Recursion) ](4_min_cost_climbing_stair_recursion.cpp)  **[---Ques](https://leetcode.com/problems/min-cost-climbing-stairs/)**
 
@@ -18,7 +18,7 @@
 
 [7. Minimum Cost Climbing Stairs (Space optimization)](7_min_cost_climbing_stair_Opt.cpp)
 <hr>
-<img src="img/leetcode-coin-change1.png" alt="coin" sizes="500" width="465" height="316">
+<img src="img/leetcode-coin-change1.png" alt="coin" sizes="500">
 
 [8. Minimum Number of Coins (Recursion) ](8_min_coin_change_rec.cpp)    **[---Ques](https://leetcode.com/problems/coin-change/description/)**
 
@@ -38,7 +38,7 @@
 [14. Maximum Sum of Non-Adjacent Elements (Space optimization)](14_max_sum_nonAdjacent_element_opt.cpp)
 <hr>
 
-<img src="img/1_4BZaoFmRoHNfJQfL12AoqQ.png" alt="robbery" sizes="500" width="425" height="122" >
+<img src="img/1_4BZaoFmRoHNfJQfL12AoqQ.png" alt="robbery" sizes="500" >
 
 [15. House Robbery Problem (Recursion) ](15_house_robbery_rec.cpp)       **[-Ques](https://leetcode.com/problems/house-robber/description/)**
 
@@ -59,7 +59,7 @@
 
 <hr>
 
-<img src="img/330px-Derangement4.png" alt="dearangement" sizes="500" width="440" height="312">
+<img src="img/330px-Derangement4.png" alt="dearangement" sizes="500">
 
 [23. Count derangements (Recursion)](23_count_derangements_rec.cpp)  (ith index doesn't stay at ith position --> how may combination?)   **[-Ques](https://www.codingninjas.com/studio/problems/count-derangements_873861?leftPanelTab=0)**
 
@@ -70,7 +70,7 @@
 [26. Count derangements (Space optimization)](26_count_derangements_opt.cpp)
 <hr>
 
-<img src="img/paintfenceex1.png" alt="paintingFence" sizes="500" width="456" height="286">
+<img src="img/paintfenceex1.png" alt="paintingFence" sizes="500">
 
 [27. Painting Fence Algorithm (Recursion)](27_painting_fence_rec.cpp)      -**[-Ques](https://www.codingninjas.com/studio/problems/ninja-and-the-fence_3210208?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
 
@@ -94,7 +94,7 @@
 [35. KnapSack Problem (More Space optimization - one vector)]()
 <hr>
 
-<img src="img/Combination-Sum.png" alt="comSum" sizes="500" width="462" height="260">
+<img src="img/Combination-Sum.png" alt="comSum" sizes="500">
 
 [36. Combination Sum (Recursion)](36_combination_sum_rec.cpp)     -**[-Ques](https://leetcode.com/problems/perfect-squares/submissions/1270166759/)**
 
@@ -113,7 +113,7 @@
 [42. Perfect Cube Problem (Recursion)](42_perfect_cude_rec.cpp)
 <hr>
 
-<img src="img/1_RwF_wiPqEdRWnEVfZX2GXA.png" alt="minCostTick" sizes="500" width="465" height="262">
+<img src="img/1_RwF_wiPqEdRWnEVfZX2GXA.png" alt="minCostTick" sizes="500">
 
 [43. Minimum Cost for Tickets (Recursion)](43_min_cost_ticket_rec.cpp)   -**[-Ques](https://www.codingninjas.com/studio/problems/minimum-coins_2180776?leftPanelTab=0)**
 
@@ -135,7 +135,7 @@
 
 <hr>
 
-<img src="img/shape3.jpg" alt="poly" sizes="500"  width="400" height="250">
+<img src="img/shape3.jpg" alt="poly" sizes="500">
 
 [51. Min Score Triangulation of Polygon (Recursion)](51_min_score_triangle_rec.cpp) -**[-Ques](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)**
 
@@ -143,7 +143,7 @@
 
 [53. Min Score Triangulation of Polygon (Tabulation)](53_min_score_triangle_tab.cpp)
 <hr>
-<img src="img/ic234-q3-ex3.png" alt="sideJump" sizes="500"  width="400" height="250">
+<img src="img/ic234-q3-ex3.png" alt="sideJump" sizes="500">
 
 [54. Minimum Sideways Jump (Recursion)](54_min_sideway_jump.cpp)   -**[-Ques](https://leetcode.com/problems/minimum-sideway-jumps/)**
 
@@ -174,7 +174,7 @@
 [66. Longest Increasing Subsequence (DP + BinarySearch)](66_longest_increasing_subsequence_Binary_search_DP.cpp)
 
 <hr>
-<img src="img/image.jpg" alt="Cuboid" sizes="500"  width="400" height="250">
+<img src="img/image.jpg" alt="Cuboid" sizes="500" >
 
 [67. Max Height Cuboid (Rucursion)](67_Max_Height_Cuboid.cpp)      -**[-Ques](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)** 
 
@@ -188,7 +188,7 @@
 
 
 <hr>
-<img src="img/sample_3_1723.png" alt="pizza" sizes="500" width="400" height="250">
+<img src="img/sample_3_1723.png" alt="pizza" sizes="500">
 
 [72. Pizza with 3n size (Recursion)](72_Pizza_with_3n_size.cpp)      -**[-Ques](https://leetcode.com/problems/pizza-with-3n-slices/)**
 
@@ -210,7 +210,7 @@
 
 <hr>
 
-<img src="img/ex.jpg" alt="partitionEq" sizes="500" width="465" height="278">
+<img src="img/ex.jpg" alt="partitionEq" sizes="500">
 
 [80. Partition Equal Subset Sum (Recursion) ](80_Partition_equal.cpp)-**[-Ques](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)**
 
@@ -242,19 +242,21 @@
 
 [91. Longest AP with given Difference "d" (Hashmap)]()   -**[-Ques](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)**
 <hr>
-<img src="img/uniquebstn3.jpg" alt="unqBT" sizes="500" width="800" height="250">
+<img src="img/uniquebstn3.jpg" alt="unqBT" sizes="500">
 
-[92. Unique Binary Search Trees or Catalan Number (Recursion)]()      -**[-Ques](https://leetcode.com/problems/unique-binary-search-trees/)**
+[92. Unique Binary Search Trees or Catalan Number (Recursion)](92_unique_binary_tree.cpp)      -**[-Ques](https://leetcode.com/problems/unique-binary-search-trees/)**
 
-[93. Unique Binary Search Trees or Catalan Number (Memorization)]()
+[93. Unique Binary Search Trees or Catalan Number (Memorization)](93_unique_binary_tree_mem.cpp)
 
-[94. Unique Binary Search Trees or Catalan Number (Tabulation)]()
+[94. Unique Binary Search Trees or Catalan Number (Tabulation)](94_unique_binary_tree_tab.cpp)
 <hr>
-<img src="img/graph.png" alt="guessNum" sizes="500" width="333" height="255">
+<img src="img/graph.png" alt="guessNum" sizes="500">
 
-95. Guess Number Higher or Lower (Recursion)     -**[-Ques](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)**
-96. Guess Number Higher or Lower (Memorization)
-97. Guess Number Higher or Lower (Tabulation)
+[95. Guess Number Higher or Lower (Recursion)](95_Guss_Number_Higher_lower.cpp)     -**[-Ques](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)**
+
+[96. Guess Number Higher or Lower (Memorization)](97_Guss_Number_Higher_lower_tab.cpp)
+
+[97. Guess Number Higher or Lower (Tabulation)](97_Guss_Number_Higher_lower_tab.cpp)
 <hr>
 95. Minimum Cost Tree From Leaf Values
 <hr>
