@@ -3,9 +3,9 @@
 
 
 
-- **[1.Basic Programming](1_Basic/ReadMe.md)**
+- **[1.Basic Programming](1_Basic/BasicReadMe.md)**
 
-- **[2.Bitwise Manupulation]()**
+- **[2.Bitwise Manupulation](2_Bitwise/bitwise.md)**
 
 - **[3.String](3_String/string.md)**
 
@@ -21,7 +21,7 @@
 
 - **[9.Recursion](9_Recursion/recursion.md)**
 
-- **[10.Pointer]()**
+- **[10.Pointer](10_Pointer/pointer.md)**
 
 - **[11.File](11_File_Handling/file.md)**
 
