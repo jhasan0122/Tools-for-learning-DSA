@@ -147,13 +147,15 @@
 
 [6.  Dragons](1000_Challenges/230A.cpp) [___Ques](https://codeforces.com/problemset/problem/230/A)
 
-[7.  	Xenia and Ringroad](1000_Challenges/339B.cpp) [___Ques](https://codeforces.com/problemset/problem/339/B)
+[7. Xenia and Ringroad](1000_Challenges/339B.cpp) [___Ques](https://codeforces.com/problemset/problem/339/B)
 
-[8.  	 Football](1000_Challenges/43A.cpp) [___Ques](https://codeforces.com/problemset/problem/43/A)
+[8.  Football](1000_Challenges/43A.cpp) [___Ques](https://codeforces.com/problemset/problem/43/A)
 
-[9.  	 	New Year Candles](1000_Challenges/379A.cpp) [___Ques](https://codeforces.com/problemset/problem/379/A)
+[9.  New Year Candles](1000_Challenges/379A.cpp) [___Ques](https://codeforces.com/problemset/problem/379/A)
 
-[10.  	 	Move Brackets](1000_Challenges/1374C.cpp) [___Ques](https://codeforces.com/problemset/problem/1374/C)
+[10. Move Brackets](1000_Challenges/1374C.cpp) [___Ques](https://codeforces.com/problemset/problem/1374/C)
+
+[11. New Year Transportation](1000_Challenges/500A.cpp) [___Ques](https://codeforces.com/problemset/problem/500/A)
 
 
 
@@ -179,6 +181,9 @@
 [3.  Worms](1200_Challenges/474B.cpp) [___Ques](https://codeforces.com/problemset/problem/474/B)
 
 [4.  Vanya and Lanterns](1200_Challenges/492B.cpp) [___Ques](https://codeforces.com/problemset/problem/492/B)
+
+[5.  Cheap Travel](1200_Challenges/466A.cpp) [___Ques](https://codeforces.com/problemset/problem/466/A)
+
 
 
 
