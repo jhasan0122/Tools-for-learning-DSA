@@ -58,10 +58,54 @@ void printPolynomial(Node *&head){
     cout<<endl;
 }
 
+
+//------------------------------------------------------
+
+Node* addTwoPolynomial(Node *&head1, Node *&head2){
+    Node *ptr1 = head1;
+    Node *ptr2 = head1;
+
+    Node *head = NULL;
+
+    while (ptr1!=NULL && ptr2!=NULL){
+        if(ptr1->expo == ptr2->expo){
+            insertPolynomial(head,ptr1->coef + ptr2->coef,ptr1->expo);
+            ptr1 = ptr1->next;
+            ptr2 = ptr2->next;
+        }
+        else if(ptr1->expo > ptr2->expo){
+            insertPolynomial(head,ptr1->coef,ptr1->expo);
+            ptr1 = ptr1->next;
+        }
+        else if(ptr1->expo < ptr2->expo){
+            insertPolynomial(head,ptr2->coef,ptr2->expo);
+            ptr2 = ptr2->next;
+        }
+    }
+    while (ptr1!=NULL){
+        insertPolynomial(head,ptr1->coef,ptr1->expo);
+        ptr1=ptr1->next;
+    }
+    while (ptr2!=NULL){
+        insertPolynomial(head,ptr2->coef,ptr2->expo);
+        ptr2=ptr2->next;
+    }
+    return head;
+}
+
 int main(){
-    Node *poly = NULL;
-    insertPolynomial(poly,5.1,2);
-    insertPolynomial(poly,3.6,1);
-    insertPolynomial(poly,2,0);
-    printPolynomial(poly);
+    Node *poly1 = NULL;
+    insertPolynomial(poly1,5.1,2);
+    insertPolynomial(poly1,3.6,1);
+    insertPolynomial(poly1,2,0);
+    printPolynomial(poly1);
+
+    Node *poly2 = NULL;
+    insertPolynomial(poly2,2.1,2);
+    insertPolynomial(poly2,1.6,1);
+    insertPolynomial(poly2,1,0);
+    printPolynomial(poly2);
+
+    Node *sum = addTwoPolynomial(poly1,poly2);
+    printPolynomial(sum);
 }
