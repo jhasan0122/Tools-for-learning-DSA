@@ -307,25 +307,33 @@
 [118. Buy and Sell Stock [V] (Space optimization) ](118_Buy_and_Stock_(V)_opt.cpp) 
 <hr>
 
-[119. Longest Common Subsequence (Recursion)]()    -**[-Ques](https://leetcode.com/problems/longest-common-subsequence/)**
+[119. Longest Common Subsequence (Recursion)](119_longest_common_subsequence_rec.cpp)    -**[-Ques](https://leetcode.com/problems/longest-common-subsequence/)**
 
-[120. Longest Common Subsequence (Memorization)]()
+[120. Longest Common Subsequence (Memorization)](120_longest_common_subsequence_mem.cpp)
 
-[121. Longest Common Subsequence (Tabulation)]()
+[121. Longest Common Subsequence (Tabulation)](121_longest_common_subsequence_tab.cpp)
 
-[122. Longest Common Subsequence (Space optimization)]()
+[122. Longest Common Subsequence (Space optimization)](122_longest_common_subsequence_opt.cpp)
 <hr>
 
-115. Longest Pelindromic Subsequence (Recursion)  -**[-Ques](https://leetcode.com/problems/longest-palindromic-subsequence/)**
-116. Longest Pelindromic Subsequence (Memorization)
-117. Longest Pelindromic Subsequence (Tabulation)
-118. Longest Pelindromic Subsequence (Space optimization)
+[123. Longest Pelindromic Subsequence (Recursion)](123_longest_pelindromic_common_subsequence_rec.cpp)  -**[-Ques](https://leetcode.com/problems/longest-palindromic-subsequence/)**
+
+[124. Longest Pelindromic Subsequence (Memorization)](124_longest_pelindromic_common_subsequence_mem.cpp)
+
+[125. Longest Pelindromic Subsequence (Tabulation)](125_longest_pelindromic_common_subsequence_tab.cpp)
+
+[126. Longest Pelindromic Subsequence (Space optimization)](126_longest_pelindromic_common_subsequence_opt.cpp)
+
 <hr>
 
-119. Edit Distance (Recursion)    -**[-Ques](https://leetcode.com/problems/edit-distance/)**
-120. EDIT Distance (Memorization)
-121. EDIT Distance (Tabulation)
-122. EDIT Distance (Space optimization)
+[127. Edit Distance (Recursion) ](127_Edit_distance_rec.cpp)-**[-Ques](https://leetcode.com/problems/edit-distance/)**
+
+[128. EDIT Distance (Memorization)](128_Edit_distance_mem.cpp)
+
+[129. EDIT Distance (Tabulation)](129_Edit_distance_tab.cpp)
+
+[130. EDIT Distance (Space optimization)](130_Edit_distance_opt.cpp)
+
 
 
 
