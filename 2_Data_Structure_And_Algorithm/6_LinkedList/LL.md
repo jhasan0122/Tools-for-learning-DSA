@@ -138,11 +138,11 @@
 [15. Reverse Linked list (Doubly Circular)](4_doubly_circular/15_reverse_linked_list.cpp)
 
 
+# Polynomial
 
 
+**[1. Insert in polynomial](5_Polynomial/1_Insert_Into_Polynomial.cpp)**
 
-- **[Polynomial](5_Polynomial.cpp)**
-1. Insert in polynomial
-2. Print polynomial
-3. Add polynomial
-4. Multiply polynomial
+**[2. Add polynomial](5_Polynomial/2_Add_two_Polynomial.cpp)**
+
+**[3. Multiply polynomial]()**
