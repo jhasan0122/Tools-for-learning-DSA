@@ -4,7 +4,7 @@
 
 [1. Maximum subarray sum](1_Maximum_Subarray.cpp)
 
-[2. Majority element(The majority element is the element that appears more than ⌊n / 2⌋) ]() **[-Ques](https://leetcode.com/problems/majority-element/description/)**
+[2. Majority element(The majority element is the element that appears more than ⌊n / 2⌋) ](2_Magority_element.cpp) **[-Ques](https://leetcode.com/problems/majority-element/description/)**
 
 [3. Find minimum-maximum in array](3_Find_Min_Max.cpp)
 
