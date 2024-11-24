@@ -334,6 +334,10 @@
 
 [130. EDIT Distance (Space optimization)](130_Edit_distance_opt.cpp)
 
+[131. Optimal Binary Search Tree](131_Optimal_Binary_Search_Tree.cpp)
+
+
+
 
 
 

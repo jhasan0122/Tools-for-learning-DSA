@@ -14,7 +14,7 @@
 
 [6. Construct BST from Preorder Array](6_buildBSTfromPreorderArray.cpp)
 
-[7. Check BST is valid or not]()
+[7. Check BST is valid or not](7_Check_BST_is_Valid.cpp)
 
 [8. Build BST from sorted array]()
 

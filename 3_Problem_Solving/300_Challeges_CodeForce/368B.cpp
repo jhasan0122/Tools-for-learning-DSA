@@ -83,28 +83,12 @@ inline T bigMod(T p, T e, L M) {
 
 
 
-string solve(int n,int t){
-    if(n == 1){
-        return "t";
-    }
-    string num = "1";
-    for (int i = 0; i < n-1; ++i) {
-        num += "0";
-    }
-    int lastDig = 0;
-    for (int i = 0; i < 10; ++i) {
-        if(lastDig % t == 0){
-            num[n-1] = lastDig;
-            return num;
-        }
-        lastDig++;
-    }
+int solve(){
 
-    return "-1";
 }
 
 int main(){
-    cout<<solve(18,7);
+    
 }
 
 

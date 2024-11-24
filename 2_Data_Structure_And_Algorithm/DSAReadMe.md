@@ -32,4 +32,4 @@
 
 - **[15.Dynamic Programming](15_DynamicProgramming/dp.md)**
 
-- **[16.Devide and Conquere]()**
+- **[16.Devide and Conquere](16_Divide_And_Conquere/dac.md)**
