@@ -75,7 +75,25 @@ void levelOrderPrint(TreeNode *&root){
 
 // Create BST Function
 
-TreeNode* buildBSTfromPreorderArray(TreeNode *&root,int *preorder){
+TreeNode* buildBSTfromPreorderArray(int *preorder,int *preIdx,int element,int minVal,int maxVal,int n){
+      if(*preIdx > n){                  //array size bound :: return NULL
+          return NULL;
+      }
+
+      TreeNode *root = NULL;
+      if(element > minVal && element<maxVal){           //if false :: doest not maintain BST rules (node must be less than minVal and greater than maxVal)
+          root = new TreeNode(element);             // creating node
+          (*preIdx) = (*preIdx) +1;                     //increasing index
+
+          if((*preIdx) <n){                             //If index less than size::
+              root->left = buildBSTfromPreorderArray(preorder,preIdx,preorder[*preIdx],minVal,element,n);       //construct (min <--> element)
+          }
+
+          if((*preIdx) <n){
+              root->right = buildBSTfromPreorderArray(preorder,preIdx,preorder[*preIdx],element,maxVal,n);      //construct (element<-->max)
+          }
+      }
+    return root;
 
 }
 
@@ -91,6 +109,12 @@ int main(){
 //    root = insertInBST(root,1);
 //    root = insertInBST(root,7);
 //    root = insertInBST(root,13);
+
+    int preIndex=0;
+    int preArray[]={8,3,1,6,4,7,10,14,13};
+    root = buildBSTfromPreorderArray(preArray,&preIndex,preArray[preIndex],INT_MIN,INT_MAX,9);
+
+
     levelOrderPrint(root);
 
 
