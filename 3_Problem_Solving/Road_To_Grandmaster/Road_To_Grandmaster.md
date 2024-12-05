@@ -93,6 +93,11 @@
 
 [44. Police Recruits](800_Challenges/427A.cpp) [___Ques](https://codeforces.com/problemset/problem/427/A)
 
+[45. I_love_\%username\%](800_Challenges/155A.cpp) [___Ques](https://codeforces.com/problemset/problem/155/A)
+
+[46. A - The New Year: Meeting Friends](800_Challenges/723A.cpp) [___Ques](https://codeforces.com/problemset/problem/723/A)
+
+
 
 
 
@@ -117,15 +122,83 @@
 
 [8.  Puzzles](900_Challenges/337A.cpp) [___Ques](https://codeforces.com/problemset/problem/337/A)
 
-[9.  	Game With Sticks](900_Challenges/451A.cpp) [___Ques](https://codeforces.com/problemset/problem/451/B)
+[9. Game With Sticks](900_Challenges/451A.cpp) [___Ques](https://codeforces.com/problemset/problem/451/B)
 
-[10.  		Ilya and Bank Account](900_Challenges/313A.cpp) [___Ques](https://codeforces.com/problemset/problem/313/A)
+[10. Ilya and Bank Account](900_Challenges/313A.cpp) [___Ques](https://codeforces.com/problemset/problem/313/A)
 
-[11.  		Sale](900_Challenges/34B.cpp) [___Ques](https://codeforces.com/problemset/problem/34/B)
+[11. Sale](900_Challenges/34B.cpp) [___Ques](https://codeforces.com/problemset/problem/34/B)
 
-[12.  		Multiply by 2, divide by 6](900_Challenges/1374B.cpp) [___Ques](https://codeforces.com/problemset/problem/1374/B)
+[12.  Multiply by 2, divide by 6](900_Challenges/1374B.cpp) [___Ques](https://codeforces.com/problemset/problem/1374/B)
 
-[13.  			Candies](900_Challenges/1343A.cpp) [___Ques](https://codeforces.com/problemset/problem/1343/A)
+[13.  Candies](900_Challenges/1343A.cpp) [___Ques](https://codeforces.com/problemset/problem/1343/A)
+
+[14.  New Year's Number](900_Challenges/1475B.cpp) [___Ques](https://codeforces.com/problemset/problem/1475/B)
+
+
+[*15.  	Vasya and Socks](900_Challenges) [___Ques]()
+
+*
+[16.  Keyboard](900_Challenges) [___Ques]()
+
+[17.  	Case of the Zeros and Ones](900_Challenges) [___Ques]()
+
+[18.  	Two-gram](900_Challenges) [___Ques]()
+
+[19.  	Business trip](900_Challenges) [___Ques]()
+
+[20.  	Magic Numbers](900_Challenges) [___Ques]()
+
+[21.  Construct the String](900_Challenges) [___Ques]()
+
+[22.  Balanced Round](900_Challenges) [___Ques]()
+
+[23.  Make AP](900_Challenges) [___Ques]()
+
+[24.  	01 Game](900_Challenges) [___Ques]()
+
+[25.  	Party](900_Challenges) [___Ques]()
+
+[26.  	Manhattan Circle](900_Challenges) [___Ques]()
+
+[27.  	Kana and Dragon Quest game](900_Challenges) [___Ques]()
+
+[28.  Odd Queries](900_Challenges) [___Ques]()
+
+[29.  	Vasilije in Cacak](900_Challenges) [___Ques]()
+
+[30.  Following the String](900_Challenges) [___Ques]()
+
+[31.  Chemistry](900_Challenges) [___Ques]()
+
+[32.  	Rudolf and the Ugly String](900_Challenges) [___Ques]()
+
+[33.  Stripes](900_Challenges) [___Ques]()
+
+[34.  Clock and Strings](900_Challenges) [___Ques]()
+
+[35.  	Unique Number](900_Challenges) [___Ques]()
+
+[36.  	Juicer](900_Challenges) [___Ques]()
+
+[37.  	Lineland Mail](900_Challenges) [___Ques]()
+
+[38.  	Filling Diamonds](900_Challenges) [___Ques]()
+
+[39.  	Almost Prime](900_Challenges) [___Ques]()
+
+[40.  	Mocha and Math](900_Challenges) [___Ques]()
+
+[41.  Comparison String](900_Challenges) [___Ques]()
+
+[42.  	Array Reodering](900_Challenges) [___Ques]()
+
+[43.  Unnatural Language Processing](900_Challenges) [___Ques]()
+
+[44.  	Bad Boy](900_Challenges) [___Ques]()
+
+[45.  	Lights Out](900_Challenges) [___Ques]()
+
+[15.  Candies](900_Challenges) [___Ques]()
 
 
 
@@ -156,6 +229,44 @@
 [10. Move Brackets](1000_Challenges/1374C.cpp) [___Ques](https://codeforces.com/problemset/problem/1374/C)
 
 [11. New Year Transportation](1000_Challenges/500A.cpp) [___Ques](https://codeforces.com/problemset/problem/500/A)
+
+[13. 	cAPS lOCK](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+
+[14. Raising Bacteria](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+
+[15. 	Olesya and Rodion](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+
+[16. 	Dreamoon and Stairs](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+
+[17. Arpa’s hard exam and Mehrdad’s naive cheat](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+
+[18. 	Road To Zero](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
+[12. New](1000_Challenges/) [___Ques](https://codeforces.com/problemset/problem/)
 
 
 

@@ -83,12 +83,22 @@ inline T bigMod(T p, T e, L M) {
 
 
 
-int solve(){
-
+string solve(int n){
+    int can_be_div_by = n/2020;
+    if(n%2020 <= can_be_div_by){
+        return "YES";
+    }
+    return "NO";
 }
 
 int main(){
-
+    int t;
+    si(t);
+    for (int i = 0; i < t; ++i) {
+        int n;
+        si(n);
+        cout<<solve(n)<<endl;
+    }
 }
 
 

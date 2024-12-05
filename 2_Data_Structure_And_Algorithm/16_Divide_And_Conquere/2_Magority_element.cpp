@@ -29,7 +29,7 @@ int findMajorityElement(vector<int> arr,int start,int end){
     int leftMajorityFrequency = countFrequency(arr,leftMajority);
     int rightMajorityFrequency = countFrequency(arr,rightMajority);
 
-    if(leftMajorityFrequency > (end-start+1)/2){
+    if(leftMajorityFrequency >= (end-start+1)/2){
         return leftMajority;
     }
     if(rightMajorityFrequency > (end-start+1)/2){
